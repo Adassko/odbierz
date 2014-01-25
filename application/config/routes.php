@@ -39,6 +39,7 @@
 */
 
 $route['default_controller'] = 'links';
+$route['sendlink'] = 'links/sendlink';
 $route['404_override'] = '';
 
 
