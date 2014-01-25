@@ -1,0 +1,298 @@
+# Webalizer V2.23-05 Incremental Data - 01/17/2014 21:10:46
+2014 1 17 21 10 46
+403 291 2 71 13 2 1355717 51 3 0
+2 78 196 17 17
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+403 291 1355717 2 51 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+8 4 21905 4
+56 51 305153 9
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 567 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+64 54 292825 18
+196 126 528816 16
+78 55 206451 3
+0 0 0 0
+0 0 0 0
+0
+0
+0
+291
+0
+0
+0
+0
+0
+0
+0
+2
+3
+0
+96
+0
+0
+0
+0
+0
+0
+11
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/phpmyadmin/version_check.php
+0 4 0 1296 0 0
+/phpmyadmin/js/tbl_change.js
+0 4 0 6166 0 0
+/phpmyadmin/tbl_change.php
+0 1 0 4881 0 0
+/logo.png
+0 2 0 19144 0 0
+/phpmyadmin/
+0 13 0 27822 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_flat_75_ffffff_40x100.png
+0 2 0 910 0 0
+/phpmyadmin/themes/pmahomme/img/marked_bg.png
+0 1 0 448 0 0
+/phpmyadmin/js/tbl_structure.js
+0 2 0 3636 0 0
+/phpmyadmin/themes/pmahomme/img/logo_left.png
+0 5 0 5730 0 0
+/phpmyadmin/themes/pmahomme/img/error.ico
+0 3 0 6716 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+0 2 0 756 0 0
+/js/bootstrap.min.js
+0 10 0 31798 0 0
+/phpmyadmin/themes/pmahomme/img/arrow_ltr.png
+0 3 0 760 0 0
+/phpmyadmin/js/common.js
+0 3 0 3306 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-icons_222222_256x240.png
+0 1 0 4648 0 0
+/phpmyadmin/js/get_image.js.php
+0 6 0 7143 0 0
+/phpmyadmin/print.css
+0 5 0 1913 0 0
+/phpmyadmin/js/jquery/timepicker.js
+0 4 0 12336 0 0
+/phpmyadmin/themes/pmahomme/jquery/jquery-ui-1.8.16.custom.css
+0 5 0 13388 0 0
+/phpmyadmin/navigation.php
+0 57 0 79515 0 0
+/phpmyadmin/themes/pmahomme/img/tab_hover_bg.png
+0 2 0 1559 0 0
+/phpmyadmin/js/tbl_relation.js
+0 1 0 525 0 0
+/favicon.ico
+0 4 0 2384 0 0
+/phpmyadmin/js/indexes.js
+0 2 0 948 0 0
+/db.php
+0 1 0 253 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png
+0 2 0 913 0 0
+/phpmyadmin/js/gis_data_editor.js
+0 1 0 2377 0 0
+/phpmyadmin/themes/pmahomme/img/tab_bg.png
+0 4 0 1150 0 0
+/phpmyadmin/js/codemirror/mode/mysql/mysql.js
+0 1 0 3454 0 0
+/phpmyadmin/js/jquery/jquery.sprintf.js
+0 4 0 2088 0 0
+/phpmyadmin/tbl_create.php
+0 9 0 61404 0 0
+/phpmyadmin/js/jquery/jquery-1.6.2.js
+0 6 0 99311 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_75_dadada_1x400.png
+0 1 0 388 0 0
+/phpmyadmin/js/codemirror/lib/codemirror.js
+0 1 0 17954 0 0
+/phpmyadmin/js/functions.js
+0 6 0 41322 0 0
+/phpmyadmin/js/jquery/jquery.qtip-1.0.0-rc3.js
+0 6 0 29550 0 0
+/css/bootstrap.min.css
+0 11 0 69464 0 0
+/phpmyadmin/js/keyhandler.js
+0 8 0 6616 0 0
+/phpmyadmin/js/update-location.js
+0 6 0 2747 0 0
+/phpmyadmin/themes/pmahomme/img/s_notice.png
+0 3 0 1985 0 0
+/phpmyadmin/js/messages.php
+0 16 0 64160 0 0
+/phpmyadmin/favicon.ico
+0 2 0 13888 0 0
+/phpmyadmin/db_structure.php
+0 16 0 48766 0 0
+/phpmyadmin/themes/pmahomme/img/s_passwd.png
+0 2 0 1260 0 0
+/phpmyadmin/sql.php
+0 9 0 74222 0 0
+/phpmyadmin/js/db_structure.js
+0 4 0 5326 0 0
+/phpmyadmin/themes/pmahomme/img/s_success.png
+0 1 0 829 0 0
+/phpmyadmin/phpmyadmin.css.php
+0 15 0 126413 0 0
+/css/bootstrap-theme.min.css
+0 9 0 9441 0 0
+/
+0 28 0 16764 3 1
+/phpmyadmin/themes/pmahomme/img/s_asci.png
+0 2 0 920 0 0
+/phpmyadmin/themes/pmahomme/img/s_theme.png
+0 2 0 2211 0 0
+/phpmyadmin/tbl_addfield.php
+0 4 0 23237 0 0
+/phpmyadmin/tbl_relation.php
+0 5 0 20357 0 0
+/phpmyadmin/themes/pmahomme/img/logo_right.png
+0 2 0 9654 0 0
+/css/styles.css
+0 2 0 954 0 0
+/phpmyadmin/tbl_structure.php
+0 6 0 43526 0 0
+/phpmyadmin/tbl_operations.php
+0 4 0 27267 0 0
+/phpmyadmin/themes/pmahomme/img/database.png
+0 2 0 1260 0 0
+/phpmyadmin/themes/pmahomme/img/s_error.png
+0 2 0 1883 0 0
+/phpmyadmin/themes/dot.gif
+0 5 0 1152 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png
+0 2 0 773 0 0
+/phpmyadmin/themes/pmahomme/img/s_lang.png
+0 2 0 2064 0 0
+/phpmyadmin/themes/pmahomme/img/left_nav_bg.png
+0 2 0 1025 0 0
+/phpmyadmin/themes/pmahomme/img/input_bg.gif
+0 4 0 1236 0 0
+/phpmyadmin/js/jquery/jquery-ui-1.8.16.custom.js
+0 6 0 157094 0 0
+/phpmyadmin/js/navigation.js
+0 5 0 3963 0 0
+/phpmyadmin/js/cross_framing_protection.js
+0 6 0 2201 0 0
+/phpmyadmin/main.php
+0 4 0 25994 0 0
+/phpmyadmin/themes/pmahomme/img/sprites.png
+0 4 0 77490 0 0
+/phpmyadmin/themes/pmahomme/img/b_tblops.png
+0 2 0 1790 0 0
+# End Of Table - urls
+# -sites- (monthly)
+87.207.66.33
+0 402 290 1355150 2 1389993046
+/
+212.91.10.126
+0 1 1 567 1 1389952479
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+87.207.66.33
+0 402 290 1355150 2 1389993046
+/
+212.91.10.126
+0 1 1 567 1 1389952479
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://odbierz.tk/phpmyadmin/navigation.php
+0 77
+http://odbierz.tk/phpmyadmin/db_structure.php
+0 90
+http://odbierz.tk/
+0 33
+- (Direct Request)
+0 51
+http://odbierz.tk/phpmyadmin/tbl_structure.php
+0 23
+http://odbierz.tk/phpmyadmin/main.php
+0 26
+http://odbierz.tk/phpmyadmin/index.php
+0 36
+http://odbierz.tk/phpmyadmin/
+0 50
+http://odbierz.tk/phpmyadmin/sql.php
+0 8
+http://odbierz.tk/phpmyadmin/tbl_change.php
+0 3
+http://www.odbierz.tk/
+0 1
+http://odbierz.tk/phpmyadmin/tbl_relation.php
+0 3
+http://odbierz.tk/phpmyadmin/tbl_operations.php
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 65
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
+0 338
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
